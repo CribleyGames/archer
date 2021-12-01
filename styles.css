@@ -4,11 +4,11 @@ body {
 	font-family: "Lato", sans-serif;
 	color: white;
 	text-align: center;
-	background-color: #36393F
+	background-image: url("ur mom part 2.jpg");
 }
 
 a {
-	color: #6F84D1
+	color: white
 }
 
 .animate-opacity {
@@ -23,4 +23,13 @@ a {
   to {
     opacity: 1;
   }
+}
+
+.stroke {
+		-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+h1 {
+	font-size: 50px
 }
